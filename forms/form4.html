@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Испытание: форма регистрации</title>
+    </head>
+    <body>
+        <h1>Registration</h1>
+        <form  style="background-color:pink" action="http://iba-2016.gear.host/Home/Register2" method="post" enctype="multipart/form-data">
+           <p> 
+		    <label for="name-field">Name:</label><br>
+            <input type="text" name = "name" id="name-field"></input><br>
+			</p>
+			<p>
+			<label for="email-field">Email:</label><br>
+            <input type="text" name = "email" id="email-field"></input><br>
+			</p>
+			<p>
+			<label for="City-field">City:</label>
+			<select id="City-field" name="City">
+			<option></option>
+			<option>Minsk</option>
+			<option>Gomel</option>
+			<option>Grodno</option>
+			<option>New York</option>
+			</select>
+			</p>
+			<p>
+			<label for="age-field">Age:</label><br>
+            <input type="number" name = "age" id="age-field"></input><br>
+			</p>
+           <p> 			
+			<label for="comment-field"> Comment:</label><br>				
+				<textarea type="comment" name="comment" id="comment-field" rows =5 ></textarea><br>
+			</p>
+			<p>
+			<label  for="subscribe-field"> Subscribe:</label>
+			 <input type="checkbox" name="subscribe" id="subscribe-field" checked><br>
+			</p>
+			<p>
+			<label for="password-field"> Password:</label><br>
+            <input type="password" name = "password"  id="password-field"></input><br>
+			</p>
+			<p>
+		      <input type="file" name="avatar">
+	        </p>
+			<p>	
+				<input type="submit" value="Send">
+		   </p>
+        </form>
+    </body>
+</html>
