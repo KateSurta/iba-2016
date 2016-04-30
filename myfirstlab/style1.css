@@ -1,0 +1,28 @@
+@charset "windows-1251";
+body{
+    padding: 0 10px;
+    font-size: 18px;
+    font-family: Calibri, sans-serif;
+}
+h1{ 
+    padding: 0 10px;
+    font-size: 25px;
+    font-family: Calibri, sans-serif;
+}
+table{
+   border: solid lightblue;  
+   height: 50px;
+   border-width: 1px 1px 3px 1px;
+   border-collapse: collapse;
+}
+
+td{
+  border: 1px solid lightblue;
+  padding-left:5px;
+ 
+}
+.myclass{
+  padding: 0 10px;
+    font-size: 17px;
+    font-family: Calibri, sans-serif;
+}
