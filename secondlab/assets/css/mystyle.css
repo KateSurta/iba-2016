@@ -1,0 +1,11 @@
+#header .inner{
+	background-color:#731F14;
+}
+
+.button, .button:active, .button.alt, .button.alt:active {
+    background-color: #731F14;
+}
+
+h2, h3, header p, header p strong {
+    color: #731F14;
+}
