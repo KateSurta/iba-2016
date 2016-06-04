@@ -1,0 +1,66 @@
+html, body{
+	margin:0;
+	padding:0;
+}
+
+body{
+	width:450px;
+	font-family:"Arial", sans-serif;
+	font-size:16px;
+}
+
+h1{
+	padding:0 20px;
+	margin:0;
+	margin-top:20px;
+	font-size:18px;
+	font-weight:normal;
+}
+
+table {
+	border-collapse:collapse;
+}
+
+td, th {
+	padding: 10px 0px 10px 0px;
+} /*подглядел у кого-то*/
+
+td:first-child { /*первые ячейки - курсив и серые*/
+	color: #999999;
+	font-style: italic;
+	padding: 0px 0px 0px 20px;
+}
+
+td:nth-child(2) {
+	padding: 0px 0px 0px 20px; text-align: center;
+} /*регулируем отступы и центруем*/
+
+td:nth-child(3), th:nth-child(3) {
+	padding: 0px 0px 0px 20px;
+} /*padding для td и th*/
+
+td:nth-child(4), td:nth-child(5), td:nth-child(6), th:nth-child(4), th:nth-child(5), th:nth-child(6) {
+	padding: 0px 0px 0px 40px;
+}
+ /*padding для всех ячеек с медалями и заголовков медалей*/
+
+td:last-child, th:last-child {
+	font-weight: bold;
+	text-align: right;
+	padding-right: 20px;
+	padding-left: 40px;
+} /*итоговые ячейки - жирным; подбор padding и равнения*/
+
+tr:nth-child(2n) {
+	background-color:#eeeeee;
+} /*каждая вторая строка закрашена*/
+
+/*
+
+Все внутренние отступы кратны 5
+
+Серый цвет фона: #eeeeee
+
+Серый цвет цифр: #999999
+
+*/

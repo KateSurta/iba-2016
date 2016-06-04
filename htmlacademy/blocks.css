@@ -1,0 +1,49 @@
+/* ??????? ?????, ???????? ?? ????? */
+html,
+body {
+    margin: 0;
+    padding: 0px;
+}
+
+body {
+    width: 540px;
+    min-height: 290px;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #3a78a1;
+    background-image: url("/assets/course9/grid.png");
+    background-repeat: repeat;
+    background-position: -80px -80px;
+}
+
+.block {
+    background: rgba(0, 255, 255, 0.2);
+    border: 2px solid white;
+    
+
+}
+
+.block1 {
+height: 36px;
+width: 196px;
+
+}
+
+.block2 {
+width: 96px;
+height: 46px;
+padding: 10px 0 0 40px;
+margin: 20px 0 0 120px; 
+}
+
+.block3 {
+width: 171px;
+height: 32px;
+border: 12px solid white;
+padding: 4px 0 0 5px;
+margin: 20px 0 0 20px;
+}  
