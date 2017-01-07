@@ -1,0 +1,4 @@
+- File-New-JavaProject-FOSDemo
+- New-Class-FOSDemo
+- copy&past FOSDemo.java
+- Ctrl+F11

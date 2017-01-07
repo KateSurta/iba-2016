@@ -1,0 +1,5 @@
+- File-New-JavaProject-FISDemo
+- New-Class-FISDemo
+- copy&past FISDemo.java
+- проверить d:\FISDemo.java
+- Ctrl+F11
