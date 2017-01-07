@@ -1,0 +1,8 @@
+- start Eclipse
+- New -> JavaProject: AccountBalance
+- New -> Package: MyPack
+- New -> Class: Balance
+- copy&past Balance.java
+- New -> Class: AccountBalance
+- copy&past AccountBalance
+- Ctrl + F11

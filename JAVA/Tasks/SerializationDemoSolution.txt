@@ -1,0 +1,4 @@
+- File-New-JavaProject-SerializationDemo
+- New-Class-SerializationDemo
+- copy&past SerializationDemo.java
+- Ctrl+F11

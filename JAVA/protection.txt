@@ -1,0 +1,26 @@
+- start Eclipse
+
+- New -> JavaProject: protection
+
+- New -> Package: p1
+- New -> Class: Base
+- copy&past Base.java
+- New -> Class: Derived
+- copy&past Derived.java
+- New -> Class: SamePackage
+- copy&past SamePackage.java
+- New -> Class: DemoPackage1
+- copy&past DemoPackage1.java
+
+
+- New -> Package: p2
+- New -> Class: DerivedOtherPackage
+- copy&past DerivedOtherPackage.java
+- New -> Class: OtherPackage
+- copy&past OtherPackage.java
+
+- New -> Class: DemoPackage2
+- copy&past DemoPackage2.java
+
+
+- Ctrl + F11

@@ -1,0 +1,4 @@
+- File-New-JavaProject-TinyEdit
+- New-Class-TinyEdit
+- copy&past TinyEdit.java
+- Ctrl+F11

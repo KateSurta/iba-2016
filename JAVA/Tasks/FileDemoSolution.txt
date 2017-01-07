@@ -1,0 +1,4 @@
+- File-New-JavaProject-FileDemo
+- New-Class-FileDemo
+- copy&past FileDemo.java
+- Ctrl+F11

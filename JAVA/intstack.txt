@@ -1,0 +1,17 @@
+- start Eclipse
+
+- New -> JavaProject: IntStack
+
+- New -> Interface: IntStack
+- copy&past IntStack.java
+
+- New -> Class: FixedStack
+- copy&past FixedStack.java
+
+- New -> Class: DynStack
+- copy&past DynStack.java
+
+- New -> Class: StackDemo
+- copy&past StackDemo.java
+
+- Ctrl + F11

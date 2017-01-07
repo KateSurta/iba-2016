@@ -1,0 +1,4 @@
+- File-New-JavaProject-DataIODemo
+- New-Class-DataIODemo
+- copy&past DataIODemo.java
+- Ctrl+F11
