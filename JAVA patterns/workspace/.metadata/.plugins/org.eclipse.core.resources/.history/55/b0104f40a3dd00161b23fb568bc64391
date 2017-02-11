@@ -1,0 +1,18 @@
+package factory.interfaces;
+
+import transport.interfaces.Aircraft;
+import transport.interfaces.Car;
+import transport.interfaces.Shipment;
+
+
+public interface TransportFactory {
+    
+
+    
+    Car createCar();
+    
+    Aircraft createAircraft();
+    
+    Shipment createShipment();
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename source folder &apos;RobotSpring/src/main/java&apos; to &apos;java1&apos;&#x0D;&#x0A;- Original project: &apos;RobotSpring&apos;&#x0D;&#x0A;- Original element: &apos;RobotSpring/src/main/java&apos;&#x0D;&#x0A;- Renamed element: &apos;java&apos;" description="Rename source folder &apos;src/main/java&apos;" id="org.eclipse.jdt.ui.rename.source.folder" input="/src\/main\/java" name="java1" stamp="1480843584083" version="1.0"/>
+</session>

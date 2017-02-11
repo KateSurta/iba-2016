@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="registry.UserStory"/>
+<fullyQualifiedTypeName name="registry.UserStoryImpl"/>
+<fullyQualifiedTypeName name="registry.PlanningObject"/>
+<fullyQualifiedTypeName name="registry.Registry"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="servicelocator.Service"/>
+<fullyQualifiedTypeName name="PizzaBuilder"/>
+<fullyQualifiedTypeName name="visitor.Visitable"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="zproxy.RealImage"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.awt.Rectangle"/>
+<fullyQualifiedTypeName name="java.awt.Point"/>
+<fullyQualifiedTypeName name="transport.interfaces.Shipment"/>
+<fullyQualifiedTypeName name="transport.interfaces.Car"/>
+<fullyQualifiedTypeName name="transport.impl.car.Niva"/>
+<fullyQualifiedTypeName name="transport.interfaces.Aircraft"/>
+<fullyQualifiedTypeName name="transport.impl.aircraft.TU134"/>
+</qualifiedTypeNameHistroy>

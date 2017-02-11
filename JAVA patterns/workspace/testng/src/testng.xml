@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+
+<suite name="Suite">
+	<method-selectors>
+		<method-selector>
+			<selector-class name="fwk.BeoptMethodSelector" priority="15" />
+		</method-selector>
+	</method-selectors>
+	
+	<test name="econfig_20110101">
+		<groups>
+			<run>
+				<include name="20110101" />
+			
+			</run>
+		</groups>
+		<packages>
+			<package name="test.*" />
+		</packages>
+	</test>
+	
+	<test name="econfig_20160101">
+		<groups>
+			<run>
+				<include name="20160101" />
+			
+			</run>
+		</groups>
+		<packages>
+			<package name="test.*" />
+		</packages>
+	</test>
+</suite>
+
+
+
+

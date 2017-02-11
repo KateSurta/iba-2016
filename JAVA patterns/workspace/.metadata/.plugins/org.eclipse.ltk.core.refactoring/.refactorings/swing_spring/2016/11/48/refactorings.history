@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 packages to &apos;swing_spring2/src&apos;&#x0D;&#x0A;- Original project: &apos;swing_spring&apos;&#x0D;&#x0A;- Destination element: &apos;swing_spring2/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     swing_spring/src/todo.ui&#x0D;&#x0A;     swing_spring/src/todo&#x0D;&#x0A;     swing_spring/src/todo.ui.button&#x0D;&#x0A;- Update references to refactored element" description="Move packages" destination="=swing_spring2/src" element1="/src&lt;todo.ui" element2="/src&lt;todo" element3="/src&lt;todo.ui.button" flags="589830" fragments="3" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1479701719481" version="1.0"/>
+</session>

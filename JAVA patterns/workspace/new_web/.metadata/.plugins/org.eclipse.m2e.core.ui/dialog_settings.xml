@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_23"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_22_h"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_22"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_21"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_20_h"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_20"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_19_h"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_19"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_18"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_17"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_15"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_13_h"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_13"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_12"/>
+			<item value="D:\spring\mvc\spring-mvc\src\SpringMVC_11"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+</section>

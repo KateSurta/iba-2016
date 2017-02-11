@@ -1,0 +1,13 @@
+127.0.0.1 - - [29/Dec/2016:14:11:43 +0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:12:58 +0300] "GET /SpringMVC_5/check-user HTTP/1.1" 404 995
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:12:58 +0300] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:13:08 +0300] "GET /SpringMVC_6_h/check-user HTTP/1.1" 405 1045
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:13:35 +0300] "GET /SpringMVC_7/ HTTP/1.1" 200 986
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:13:35 +0300] "GET /SpringMVC_7/ HTTP/1.1" 200 986
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:13:35 +0300] "GET /SpringMVC_7/resources/css/home.css;jsessionid=0D87B8FAFCB95C0BDC2351B8F5DFFD87 HTTP/1.1" 200 9257
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:13:35 +0300] "GET /SpringMVC_7/resources/css/home.css;jsessionid=BBC65F90AC0A4798097F622FB5F1895B HTTP/1.1" 200 9257
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:13:37 +0300] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:13:38 +0300] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:13:41 +0300] "GET /SpringMVC_5/check-user HTTP/1.1" 404 995
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:13:53 +0300] "POST /SpringMVC_7/check-user HTTP/1.1" 200 1698
+0:0:0:0:0:0:0:1 - - [29/Dec/2016:14:13:54 +0300] "GET /SpringMVC_7/resources/css/home.css HTTP/1.1" 200 9257

@@ -1,0 +1,15 @@
+INDEX VERSION 1.126
+D:\kursi\285\labi_1\workspace\new\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1307857949.index
+\TestMVC\src\main\java
+D:\kursi\285\labi_1\workspace\new\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1686169984.index
+\SpringMVC\src\main\java
+D:\kursi\285\labi_1\workspace\new\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2778268826.index
+\training\src\main\java
+D:\kursi\285\labi_1\workspace\new\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\19222818.index
+\Spring_MVC_4\src\main\java
+D:\kursi\285\labi_1\workspace\new\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\264419827.index
+\Spring_MVC_5\src\main\java
+D:\kursi\285\labi_1\workspace\new\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2119131479.index
+\SpringMVC_5_h\src\main\java
+D:\kursi\285\labi_1\workspace\new\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\315464620.index
+\Spring_MVC_5_h\src\main\java
